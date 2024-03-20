@@ -1,0 +1,9 @@
+data
+venv
+*.env
+__pycache__
+*ipynb
+*.xlsx
+*.csv
+.DS_Store
+*.pkl
